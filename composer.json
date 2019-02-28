@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Royalcms\\Component\\Mail\\": ""
+            "Royalcms\\Component\\Mail\\": "Royalcms/Component/Mail"
         }
     },
     "extra": {
